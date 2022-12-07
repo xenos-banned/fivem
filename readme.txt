@@ -1,0 +1,1 @@
+Put the dll(d3d10.dll) into the gtaV folder
